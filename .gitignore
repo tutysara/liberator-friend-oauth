@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /target
 /classes
 /checkouts
@@ -9,10 +10,15 @@ pom.xml.asc
 /.lein-*
 /.nrepl-port
 =======
+=======
+>>>>>>> d41838f7aecdb4d36364237214d1f8a0e90e76bf
 pom.xml
 *jar
 /lib/
 /classes/
 /targets/
 .lein-deps-sum
+<<<<<<< HEAD
+>>>>>>> d41838f7aecdb4d36364237214d1f8a0e90e76bf
+=======
 >>>>>>> d41838f7aecdb4d36364237214d1f8a0e90e76bf
