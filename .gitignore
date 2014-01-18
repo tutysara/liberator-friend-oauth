@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+=======
+pom.xml
+*jar
+/lib/
+/classes/
+/targets/
+.lein-deps-sum
+>>>>>>> d41838f7aecdb4d36364237214d1f8a0e90e76bf
